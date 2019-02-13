@@ -31,4 +31,4 @@ A repository for submitting Cadre5 code bowl solutions
 
 **No requests submitted after the deadline will be accepted.**
 
-Visit https://www.code-bowl.io/#/challenge/current for specific rules about a current challenge
+Visit https://www.code-bowl.io/#/challenge/current for specific rules about a current challenge.
