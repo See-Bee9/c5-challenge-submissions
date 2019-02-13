@@ -30,3 +30,5 @@ A repository for submitting Cadre5 code bowl solutions
 * Do your best to consolidate changes into a single pull request. Sometimes mistakes happen, and I will accommodate multiple pull requests within reason. However, all pull requests must be submitted prior to the deadline.
 
 **No requests submitted after the deadline will be accepted.**
+
+Visit https://www.code-bowl.io/#/challenge/current for specific rules about a current challenge
