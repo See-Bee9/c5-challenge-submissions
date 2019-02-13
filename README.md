@@ -11,3 +11,16 @@ A repository for submitting Cadre5 code bowl solutions
 7. Additionally, inside each category directory add a readme file that describes how to build (if applicable) and execute your program. If your program requires a specific runtime version, note that in the readme.
 8. Submit a pull request back to this repository prior to the challenge deadline.
 
+<br/>
+
+### Example file structure
++ two-egg-problem
+    - my-awesome-team-name
+        - system
+          - filename.cpp
+        - intermediate
+          - filename.java
+        - scripting
+          - filename.py
+  
+
