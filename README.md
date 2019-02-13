@@ -27,3 +27,6 @@ A repository for submitting Cadre5 code bowl solutions
 ### Additional comments
 * Name your directories using kebab casing
 * If relevant, build scripts would be appreciated.
+* Do your best to consolidate changes into a single pull request. Sometimes mistakes happen, and I will accommodate multiple pull requests within reason. However, all pull requests must be submitted prior to the deadline.
+
+**No requests submitted after the deadline will be accepted.**
