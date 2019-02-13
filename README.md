@@ -3,7 +3,7 @@ A repository for submitting Cadre5 code bowl solutions
 
 ## Submission Instructions
 1. Fork this repository.
-2. Clone the repository local.
+2. Clone the repository.
 3. Find the directory for the challenge that you are submitting a solution for.
 4. Add a directory with your team name.
 5. Inside that directory add a directory for each code category you are attempting.
