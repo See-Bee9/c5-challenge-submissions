@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SystemsLanguageSolution.cpp
+c:\users\dakota.abston\desktop\twoeggtest\the-two-egg-problem\systemslanguagesolution\systemslanguagesolution\systemslanguagesolution.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SystemsLanguageSolution.vcxproj -> C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\SystemsLanguageSolution\Debug\SystemsLanguageSolution.exe

@@ -1,0 +1,11 @@
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\bin\Debug\netcoreapp2.1\IntermediateLanguageSolution.deps.json
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\bin\Debug\netcoreapp2.1\IntermediateLanguageSolution.runtimeconfig.json
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\bin\Debug\netcoreapp2.1\IntermediateLanguageSolution.runtimeconfig.dev.json
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\bin\Debug\netcoreapp2.1\IntermediateLanguageSolution.dll
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\bin\Debug\netcoreapp2.1\IntermediateLanguageSolution.pdb
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.csprojAssemblyReference.cache
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.csproj.CoreCompileInputs.cache
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.AssemblyInfoInputs.cache
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.AssemblyInfo.cs
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.dll
+C:\Users\dakota.abston\Desktop\twoeggtest\the-two-egg-problem\IntermediateLanguageSolution\IntermediateLanguageSolution\obj\Debug\netcoreapp2.1\IntermediateLanguageSolution.pdb
