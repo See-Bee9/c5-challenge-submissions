@@ -38,7 +38,7 @@ Requirements:
 
 How to run:
 
-`dotnet run [number of floors] [lowest floor egg breaks]`
+`dotnet run -c Release [number of floors] [lowest floor egg breaks]`
 
 Example
 
