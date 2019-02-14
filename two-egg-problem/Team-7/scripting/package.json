@@ -1,0 +1,13 @@
+{
+  "name": "egg-drop-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "bin": {
+    "two-egg": "bin/two-egg"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "esm": "^3.2.4"
+  }
+}
