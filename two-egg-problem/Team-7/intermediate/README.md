@@ -1,10 +1,10 @@
 # 2 Egg Problem
 
-Team 7 - scala implementation
+Team 7 - Intermediate: scala implementation
 
 C5 Code challenge #1: code-bowl.io
 
-## Prerequisits
+## Prerequisites
 
 Install Java 8
 
