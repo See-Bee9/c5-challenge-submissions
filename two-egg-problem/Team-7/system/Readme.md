@@ -13,6 +13,7 @@ None! Run included exe.
 Execute the following command
 
 ```bash
+cd two-egg/
 ./two-egg 1000 777
 ```
 
@@ -25,7 +26,7 @@ The source code for consideration is found in `two-egg/main.go`.
 Install [go](https://golang.org/dl/)
 
 ```bash
-cd two-egg
+cd two-egg/
 go build
 ```
 
