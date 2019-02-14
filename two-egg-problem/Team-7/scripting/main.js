@@ -1,14 +1,10 @@
-export default ([,, z, l]) => {
-  const {ceil: c, sqrt: v} = Math;
+export default ([, , z, l]) => {
+  l = parseInt(l);
+  const { ceil: c, sqrt: v } = Math;
   const y = c(v(z));
-  const x = (s, i) => {
-    for(let f = s; f <= l; f += i) {
-      console.log(`${f}\n${f >= l}`)
-      if(f >= l) return f;
-    }
-  }
-  const b = x(1, y);
-  const a = x(b, 1);
-  console.log(`Floor ${a}`);
-}
-
+  const x = (f, i, final) => {
+    do { f += i; console.log(`${f}\n${f >= l}`); } while(f < l);
+    return final ? f : f - i;
+  };
+  console.log(`Floor ${x(x(0, y), 1, true)}`)
+};
